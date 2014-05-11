@@ -1,6 +1,6 @@
 ---
 layout: organizationPage
-title: Stephen Gaito personal pages
+title: Stephen Gaito's personal open source project pages
 projects:
 - title: latexFifoStack
   url: latexFifoStack
